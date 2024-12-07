@@ -12,3 +12,8 @@ Early stopping to prevent overfitting.
 Prediction output is saved as a CSV file for analysis.
 Adaptable for different datasets and crowd conditions.
 
+# Dataset
+1. Training Data: A folder containing labelled images (frames) and a corresponding label file (output.csv) with the number of people in each image.
+
+2. Testing Data: A separate folder of images without labels (imageset.zip).
+
